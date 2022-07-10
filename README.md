@@ -11,7 +11,7 @@
 
 I'm Louis Hoang. A Back-End Developer. An Software Engineer from Viet Nam 🇻🇳. Community is :heart:. 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
-I ocassionally blog about expertise. Also occasionally blog about content related to my personal life.
+I occasionally blog about expertise. Also occasionally blog about content related to my personal life.
 
 
 ## Things I am passionate about
